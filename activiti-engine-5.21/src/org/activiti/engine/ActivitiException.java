@@ -16,6 +16,8 @@ package org.activiti.engine;
 /**
  * Runtime exception that is the superclass of all Activiti exceptions.
  * 
+ * 
+ * 
  * @author Tom Baeyens
  */
 public class ActivitiException extends RuntimeException {
